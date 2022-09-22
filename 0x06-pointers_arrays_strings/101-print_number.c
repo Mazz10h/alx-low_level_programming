@@ -42,4 +42,4 @@ void print_number(int n)
 		abs = abs % mult;
 		mult /= 10;
 	}
-}
+}	
