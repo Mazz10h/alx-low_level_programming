@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 Don’t forget to push your header file#ifndef MAIN_H
+=======
+#ifndef MAIN_H
+>>>>>>> 85e393ee8d844ec3d93891a07064939b97312233
 #define MAIN_H
 
 /**
